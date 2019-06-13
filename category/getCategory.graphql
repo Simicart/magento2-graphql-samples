@@ -89,3 +89,6 @@ query category($id: Int!, $currentPage: Int, $pageSize: Int, $stringId: String, 
     __typename
   }
 }
+
+# Sample params:
+{"id":5,"pageSize":6,"currentPage":0,"stringId":"5"}
