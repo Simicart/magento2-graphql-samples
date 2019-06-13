@@ -42,3 +42,6 @@ query navigationMenu($id: Int!) {
     }
   }
 }
+
+#Sample Data
+{"id":1}
