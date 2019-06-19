@@ -1,0 +1,14 @@
+{
+  category(id: 13) {
+      product_count
+          description
+    url_key
+    name
+    id
+    image
+    breadcrumbs {
+      category_name
+      category_url_key
+    }
+  }
+}
